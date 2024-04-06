@@ -1,2 +1,2 @@
-# cmpt145-finals
-practice for cmpt145 finals with the purpose of syncing between devices 
+# prep-finalsCS145
+practice for April2024 CS finals with the purpose of syncing between devices 
