@@ -6,4 +6,4 @@
 # random? Not sure the algorithm that can do 50/50 like flipping a coin.
 
 # Definitely need time for this. But somewhat I understand the problem. Just can't put them
-# all together yet. 
+# all together yet.
